@@ -1,0 +1,33 @@
+01/03/2025 18:24:32,1,Ahmed Moahmed,Deposit,8000,New balance: 17000.000000
+05/03/2025 22:28:34,1,Ahmed Moahmed,Deposit,5000,New balance: 14000.000000
+06/03/2025 16:03:23,1,Ahmed Moahmed,Deposit,5000,New balance: 14000.000000
+06/03/2025 17:42:19,1,Ahmed Moahmed,Deposit,5000,New balance: 14000.000000
+06/03/2025 17:46:17,1,Ahmed Moahmed,Deposit,6000,New balance: 15000.000000
+06/03/2025 17:46:17,3,AHMED MOHAMED,Transfer,6000,Transferred to: Ahmed Moahmed
+06/03/2025 18:45:04,1,Ahmed Moahmed,Deposit,6000,New balance: 15000.000000
+06/03/2025 18:53:34,4,Ahmed,Deposit,8000,New balance: 16000.000000
+07/03/2025 15:45:33,5,Ahmed Moahmed,Deposit,1000,New balance: 3000.000000
+07/03/2025 17:11:33,5,Ahmed Moahmed,Deposit,8999,New balance: 10999.000000
+07/03/2025 17:21:22,5,Ahmed Moahmed,Deposit,5000,New balance: 7000.000000
+08/03/2025 19:00:32,5,Ahmed Moahmed,Deposit,3000,New balance: 5000.000000
+08/03/2025 19:01:14,5,Ahmed Moahmed,Withdraw,4500,New balance: 500.000000
+08/03/2025 19:02:38,5,Ahmed Moahmed,Deposit,10000,New balance: 10500.000000
+08/03/2025 19:06:09,5,Ahmed Moahmed,Deposit,9000,New balance: 9500.000000
+08/03/2025 19:08:59,5,Ahmed Moahmed,Deposit,3000,New balance: 3500.000000
+08/03/2025 19:08:59,11,Ahmee Ahmed,Transfer,3000,Transferred to: Ahmed Moahmed
+08/03/2025 19:12:33,5,Ahmed Moahmed,Deposit,20000,New balance: 23500.000000
+08/03/2025 19:13:05,11,Ahmee Ahmed,Deposit,10000,New balance: 18000.000000
+08/03/2025 19:13:06,5,Ahmed Moahmed,Transfer,10000,Transferred to: Ahmee Ahmed
+08/03/2025 19:15:52,5,Ahmed Moahmed,Deposit,17000,New balance: 30500.000000
+08/03/2025 19:15:52,11,Ahmee Ahmed,Transfer,17000,Transferred to: Ahmed Moahmed
+08/03/2025 19:16:28,11,Ahmee Ahmed,Deposit,30000,New balance: 48000.000000
+08/03/2025 19:16:28,5,Ahmed Moahmed,Transfer,30000,Transferred to: Ahmee Ahmed
+08/03/2025 19:18:27,5,Ahmed Moahmed,Deposit,20000,New balance: 20500.000000
+08/03/2025 19:18:27,11,Ahmee Ahmed,Transfer,20000,Transferred to: Ahmed Moahmed
+08/03/2025 20:57:38,5,Ahmed Moahmed,Deposit,10000,New balance: 30500.000000
+08/03/2025 21:31:01,5,Ahmed Moahmed,Deposit,2000,New balance: 22500.000000
+08/03/2025 21:31:18,5,Ahmed Moahmed,Withdraw,22000,New balance: 500.000000
+08/03/2025 23:21:06,5,Ahmed Moahmed,Deposit,8000,New balance: 8500.000000
+08/03/2025 23:23:26,5,Ahmed Moahmed,Deposit,9500,New balance: 10000.000000
+08/03/2025 23:38:59,5,Ahmed Moahmed,Withdraw,6000,New balance: 4000.000000
+09/03/2025 00:05:42,14,Ahmed Mohamed,Deposit,1000,New balance: 9000.000000
